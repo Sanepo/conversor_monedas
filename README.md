@@ -1,7 +1,7 @@
 
 # Conversor de Monedas
 
-El siguiente proyecto consiste en un programa capaz de realizar la conversión entre diferentes monedas.
+El siguiente proyecto consiste en un programa capaz de realizar la conversión entre diferentes monedas. Proyecto propuesto en el programa de ONE Oracle en la plataforma ALURA.
         
         1) Dolar => Peso argentino
         2) Peso argentino => Dolar
